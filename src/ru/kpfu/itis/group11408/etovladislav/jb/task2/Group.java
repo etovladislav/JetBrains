@@ -19,10 +19,6 @@ public class Group {
 	public int countStudents() {
 		return students.size();
 	}
-
-	public static void main(String[] args) {
-
-	}
 	
 	public List<String> getStudents(){
 		return students;
